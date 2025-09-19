@@ -1,0 +1,29 @@
+---
+title: "Quarto In-Class Assignment"
+name: Yuan Wang 
+format: html
+editor: visual
+---
+
+# Quarto In-Class Assignment
+
+#### First, each of you has an assigned dataset from the R datasets package. Produce a one-page Quarto document that contains your visualization of your assigned dataset. The document should have a short explanatory paragraph introducing the data and be suitable for an on-screen presentation in the Practicum.
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+data(UCBAdmissions)
+df <- data.frame(UCBAdmissions)
+```
+
+```{r}
+ggplot(data = df, 
+       aes(x= Dept, y= Freq, color= Gender))+
+  geom_point()+
+  labs(title = "Visualization")+
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
