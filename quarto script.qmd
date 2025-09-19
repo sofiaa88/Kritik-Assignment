@@ -25,5 +25,6 @@ ggplot(data = df,
   labs(title = "Visualization")+
   theme(plot.title = element_text(hjust = 0.5))
 ```
+### The data could be telling us the spring and fall application volume. The two colors represent Gender. 
 
 The `echo: false` option disables the printing of code (only output is displayed).

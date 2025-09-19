@@ -1,0 +1,31 @@
+dataset	student
+CO2	Hu, Xiaoyang
+ChickWeight	Zhao, Zijing
+DNase	Gu, Zhirui
+EuStockMarkets	Vithayathil, Rebecca
+HairEyeColor	Wang, Chenyi
+Harman74.cor	Livaudais, Madeleine
+Indometh	Liu, Zhuolin
+LifeCycleSavings	Guan, Zhixuan
+Loblolly	Tao, Tingji
+Orange	Zhang, Jizhou
+OrchardSprays	Su, La
+Puromycin	Zhang, Yunbo
+Seatbelts	Stout, Phoenix
+Theoph	Hwang, Stella
+Titanic	Xing, Guowen
+ToothGrowth	Wang, Sile
+UCBAdmissions	Wang Zhang, Yuan
+USArrests	Qian, Shuxin
+USJudgeRatings	Tian, Qiming
+airquality	Nguyen, Khang-Trang
+attenu	Li, Zhenyu
+attitude	Acostalemus, George
+crimtab	Song, Yuwen
+esoph	Liu, Chunlin
+freeny	Wang, Bihong
+infert	Lee, Hyungu
+iris	Hu, Yike
+iris3	
+morley	
+mtcars	
